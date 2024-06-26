@@ -1,0 +1,1141 @@
+(export 
+  (version "E") 
+  (design 
+    (source "C:\\Users\\Lenovo L14\\Documents\\KiCad-Projects\\RJ21_RJ45_6_WAY_TRUNK\\RJ21_RJ45_6_WAY_TRUNK.kicad_sch") 
+    (date "2024-06-09T23:43:11+0100") 
+    (tool "Eeschema 8.0.1") 
+    (sheet 
+      (number "1") 
+      (name "/") 
+      (tstamps "/") 
+      (title_block 
+        (title) 
+        (company) 
+        (rev) 
+        (date) 
+        (source "RJ21_RJ45_6_WAY_TRUNK.kicad_sch") 
+        (comment 
+          (number "1") 
+          (value "")) 
+        (comment 
+          (number "2") 
+          (value "")) 
+        (comment 
+          (number "3") 
+          (value "")) 
+        (comment 
+          (number "4") 
+          (value "")) 
+        (comment 
+          (number "5") 
+          (value "")) 
+        (comment 
+          (number "6") 
+          (value "")) 
+        (comment 
+          (number "7") 
+          (value "")) 
+        (comment 
+          (number "8") 
+          (value "")) 
+        (comment 
+          (number "9") 
+          (value ""))))) 
+  (components 
+    (comp 
+      (ref "J1") 
+      (value "RJ45") 
+      (footprint "RJ21_RJ45_6_WAY_TRUNK:RJ45") 
+      (fields 
+        (field 
+          (name "Footprint") "RJ21_RJ45_6_WAY_TRUNK:RJ45") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Connector") 
+        (part "RJ45") 
+        (description "RJ connector, 8P8C (8 positions 8 connected)")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "RJ21_RJ45_6_WAY_TRUNK.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "8P8C RJ female connector")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "8e3358cd-75a9-48fb-8c59-f866618053ed")) 
+    (comp 
+      (ref "J2") 
+      (value "RJ45") 
+      (footprint "RJ21_RJ45_6_WAY_TRUNK:RJ45") 
+      (fields 
+        (field 
+          (name "Footprint") "RJ21_RJ45_6_WAY_TRUNK:RJ45") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Connector") 
+        (part "RJ45") 
+        (description "RJ connector, 8P8C (8 positions 8 connected)")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "RJ21_RJ45_6_WAY_TRUNK.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "8P8C RJ female connector")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "16c6d895-28e6-48ef-a5ad-fd345f63f29b")) 
+    (comp 
+      (ref "J3") 
+      (value "RJ45") 
+      (footprint "RJ21_RJ45_6_WAY_TRUNK:RJ45") 
+      (fields 
+        (field 
+          (name "Footprint") "RJ21_RJ45_6_WAY_TRUNK:RJ45") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Connector") 
+        (part "RJ45") 
+        (description "RJ connector, 8P8C (8 positions 8 connected)")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "RJ21_RJ45_6_WAY_TRUNK.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "8P8C RJ female connector")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "7e86cee6-054c-4dee-ad35-257efa321130")) 
+    (comp 
+      (ref "J4") 
+      (value "RJ45") 
+      (footprint "RJ21_RJ45_6_WAY_TRUNK:RJ45") 
+      (fields 
+        (field 
+          (name "Footprint") "RJ21_RJ45_6_WAY_TRUNK:RJ45") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Connector") 
+        (part "RJ45") 
+        (description "RJ connector, 8P8C (8 positions 8 connected)")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "RJ21_RJ45_6_WAY_TRUNK.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "8P8C RJ female connector")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "5bc6fa6a-b6a3-4475-b417-453f7f5e2796")) 
+    (comp 
+      (ref "J5") 
+      (value "RJ45") 
+      (footprint "RJ21_RJ45_6_WAY_TRUNK:RJ45") 
+      (fields 
+        (field 
+          (name "Footprint") "RJ21_RJ45_6_WAY_TRUNK:RJ45") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Connector") 
+        (part "RJ45") 
+        (description "RJ connector, 8P8C (8 positions 8 connected)")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "RJ21_RJ45_6_WAY_TRUNK.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "8P8C RJ female connector")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "02d39e6c-4296-43aa-b734-ef59a64c776d")) 
+    (comp 
+      (ref "J6") 
+      (value "RJ45") 
+      (footprint "RJ21_RJ45_6_WAY_TRUNK:RJ45") 
+      (fields 
+        (field 
+          (name "Footprint") "RJ21_RJ45_6_WAY_TRUNK:RJ45") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Connector") 
+        (part "RJ45") 
+        (description "RJ connector, 8P8C (8 positions 8 connected)")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "RJ21_RJ45_6_WAY_TRUNK.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "8P8C RJ female connector")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "c4e9b1cf-32c4-42fc-b9fb-c23e88e37e85")) 
+    (comp 
+      (ref "J7") 
+      (value "RJ21 Connector") 
+      (footprint "RJ21_RJ45_6_WAY_TRUNK:RJ21") 
+      (fields 
+        (field 
+          (name "Footprint") "RJ21_RJ45_6_WAY_TRUNK:RJ21") 
+        (field 
+          (name "Datasheet")) 
+        (field 
+          (name "Description"))) 
+      (libsource 
+        (lib "Connector_Generic") 
+        (part "Conn_02x25_Top_Bottom") 
+        (description "Generic connector, double row, 02x25, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "Sheetname") 
+        (value "Root")) 
+      (property 
+        (name "Sheetfile") 
+        (value "RJ21_RJ45_6_WAY_TRUNK.kicad_sch")) 
+      (property 
+        (name "ki_keywords") 
+        (value "connector")) 
+      (property 
+        (name "ki_fp_filters") 
+        (value "Connector*:*_2x??_*")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "b32632dd-ec0e-4663-ab50-2d2ce2c4f164"))) 
+  (libparts 
+    (libpart 
+      (lib "Connector") 
+      (part "RJ45") 
+      (description "RJ connector, 8P8C (8 positions 8 connected)") 
+      (docs "~") 
+      (footprints 
+        (fp "8P8C*") 
+        (fp "RJ31*") 
+        (fp "RJ32*") 
+        (fp "RJ33*") 
+        (fp "RJ34*") 
+        (fp "RJ35*") 
+        (fp "RJ41*") 
+        (fp "RJ45*") 
+        (fp "RJ49*") 
+        (fp "RJ61*")) 
+      (fields 
+        (field 
+          (name "Reference") "J") 
+        (field 
+          (name "Value") "RJ45") 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "RJ connector, 8P8C (8 positions 8 connected)")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "3") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "4") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "5") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "6") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "7") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "8") 
+          (name "") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Connector_Generic") 
+      (part "Conn_02x25_Top_Bottom") 
+      (description "Generic connector, double row, 02x25, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)") 
+      (docs "~") 
+      (footprints 
+        (fp "Connector*:*_2x??_*")) 
+      (fields 
+        (field 
+          (name "Reference") "J") 
+        (field 
+          (name "Value") "Conn_02x25_Top_Bottom") 
+        (field 
+          (name "Footprint")) 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Description") "Generic connector, double row, 02x25, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "Pin_1") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "Pin_2") 
+          (type "passive")) 
+        (pin 
+          (num "3") 
+          (name "Pin_3") 
+          (type "passive")) 
+        (pin 
+          (num "4") 
+          (name "Pin_4") 
+          (type "passive")) 
+        (pin 
+          (num "5") 
+          (name "Pin_5") 
+          (type "passive")) 
+        (pin 
+          (num "6") 
+          (name "Pin_6") 
+          (type "passive")) 
+        (pin 
+          (num "7") 
+          (name "Pin_7") 
+          (type "passive")) 
+        (pin 
+          (num "8") 
+          (name "Pin_8") 
+          (type "passive")) 
+        (pin 
+          (num "9") 
+          (name "Pin_9") 
+          (type "passive")) 
+        (pin 
+          (num "10") 
+          (name "Pin_10") 
+          (type "passive")) 
+        (pin 
+          (num "11") 
+          (name "Pin_11") 
+          (type "passive")) 
+        (pin 
+          (num "12") 
+          (name "Pin_12") 
+          (type "passive")) 
+        (pin 
+          (num "13") 
+          (name "Pin_13") 
+          (type "passive")) 
+        (pin 
+          (num "14") 
+          (name "Pin_14") 
+          (type "passive")) 
+        (pin 
+          (num "15") 
+          (name "Pin_15") 
+          (type "passive")) 
+        (pin 
+          (num "16") 
+          (name "Pin_16") 
+          (type "passive")) 
+        (pin 
+          (num "17") 
+          (name "Pin_17") 
+          (type "passive")) 
+        (pin 
+          (num "18") 
+          (name "Pin_18") 
+          (type "passive")) 
+        (pin 
+          (num "19") 
+          (name "Pin_19") 
+          (type "passive")) 
+        (pin 
+          (num "20") 
+          (name "Pin_20") 
+          (type "passive")) 
+        (pin 
+          (num "21") 
+          (name "Pin_21") 
+          (type "passive")) 
+        (pin 
+          (num "22") 
+          (name "Pin_22") 
+          (type "passive")) 
+        (pin 
+          (num "23") 
+          (name "Pin_23") 
+          (type "passive")) 
+        (pin 
+          (num "24") 
+          (name "Pin_24") 
+          (type "passive")) 
+        (pin 
+          (num "25") 
+          (name "Pin_25") 
+          (type "passive")) 
+        (pin 
+          (num "26") 
+          (name "Pin_26") 
+          (type "passive")) 
+        (pin 
+          (num "27") 
+          (name "Pin_27") 
+          (type "passive")) 
+        (pin 
+          (num "28") 
+          (name "Pin_28") 
+          (type "passive")) 
+        (pin 
+          (num "29") 
+          (name "Pin_29") 
+          (type "passive")) 
+        (pin 
+          (num "30") 
+          (name "Pin_30") 
+          (type "passive")) 
+        (pin 
+          (num "31") 
+          (name "Pin_31") 
+          (type "passive")) 
+        (pin 
+          (num "32") 
+          (name "Pin_32") 
+          (type "passive")) 
+        (pin 
+          (num "33") 
+          (name "Pin_33") 
+          (type "passive")) 
+        (pin 
+          (num "34") 
+          (name "Pin_34") 
+          (type "passive")) 
+        (pin 
+          (num "35") 
+          (name "Pin_35") 
+          (type "passive")) 
+        (pin 
+          (num "36") 
+          (name "Pin_36") 
+          (type "passive")) 
+        (pin 
+          (num "37") 
+          (name "Pin_37") 
+          (type "passive")) 
+        (pin 
+          (num "38") 
+          (name "Pin_38") 
+          (type "passive")) 
+        (pin 
+          (num "39") 
+          (name "Pin_39") 
+          (type "passive")) 
+        (pin 
+          (num "40") 
+          (name "Pin_40") 
+          (type "passive")) 
+        (pin 
+          (num "41") 
+          (name "Pin_41") 
+          (type "passive")) 
+        (pin 
+          (num "42") 
+          (name "Pin_42") 
+          (type "passive")) 
+        (pin 
+          (num "43") 
+          (name "Pin_43") 
+          (type "passive")) 
+        (pin 
+          (num "44") 
+          (name "Pin_44") 
+          (type "passive")) 
+        (pin 
+          (num "45") 
+          (name "Pin_45") 
+          (type "passive")) 
+        (pin 
+          (num "46") 
+          (name "Pin_46") 
+          (type "passive")) 
+        (pin 
+          (num "47") 
+          (name "Pin_47") 
+          (type "passive")) 
+        (pin 
+          (num "48") 
+          (name "Pin_48") 
+          (type "passive")) 
+        (pin 
+          (num "49") 
+          (name "Pin_49") 
+          (type "passive")) 
+        (pin 
+          (num "50") 
+          (name "Pin_50") 
+          (type "passive"))))) 
+  (libraries 
+    (library 
+      (logical "Connector") 
+      (uri "C:\\Program Files\\KiCad\\8.0\\share\\kicad\\symbols\\/Connector.kicad_sym")) 
+    (library 
+      (logical "Connector_Generic") 
+      (uri "C:\\Program Files\\KiCad\\8.0\\share\\kicad\\symbols\\/Connector_Generic.kicad_sym"))) 
+  (nets 
+    (net 
+      (code "1") 
+      (name "/L1+") 
+      (node 
+        (ref "J1") 
+        (pin "5") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "26") 
+        (pinfunction "Pin_26") 
+        (pintype "passive"))) 
+    (net 
+      (code "2") 
+      (name "/L1-") 
+      (node 
+        (ref "J1") 
+        (pin "4") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "1") 
+        (pinfunction "Pin_1") 
+        (pintype "passive"))) 
+    (net 
+      (code "3") 
+      (name "/L2+") 
+      (node 
+        (ref "J1") 
+        (pin "3") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "27") 
+        (pinfunction "Pin_27") 
+        (pintype "passive"))) 
+    (net 
+      (code "4") 
+      (name "/L2-") 
+      (node 
+        (ref "J1") 
+        (pin "6") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "2") 
+        (pinfunction "Pin_2") 
+        (pintype "passive"))) 
+    (net 
+      (code "5") 
+      (name "/L3+") 
+      (node 
+        (ref "J1") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "28") 
+        (pinfunction "Pin_28") 
+        (pintype "passive"))) 
+    (net 
+      (code "6") 
+      (name "/L3-") 
+      (node 
+        (ref "J1") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "3") 
+        (pinfunction "Pin_3") 
+        (pintype "passive"))) 
+    (net 
+      (code "7") 
+      (name "/L4+") 
+      (node 
+        (ref "J1") 
+        (pin "7") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "29") 
+        (pinfunction "Pin_29") 
+        (pintype "passive"))) 
+    (net 
+      (code "8") 
+      (name "/L4-") 
+      (node 
+        (ref "J1") 
+        (pin "8") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "4") 
+        (pinfunction "Pin_4") 
+        (pintype "passive"))) 
+    (net 
+      (code "9") 
+      (name "/L5+") 
+      (node 
+        (ref "J2") 
+        (pin "5") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "30") 
+        (pinfunction "Pin_30") 
+        (pintype "passive"))) 
+    (net 
+      (code "10") 
+      (name "/L5-") 
+      (node 
+        (ref "J2") 
+        (pin "4") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "5") 
+        (pinfunction "Pin_5") 
+        (pintype "passive"))) 
+    (net 
+      (code "11") 
+      (name "/L6+") 
+      (node 
+        (ref "J2") 
+        (pin "3") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "31") 
+        (pinfunction "Pin_31") 
+        (pintype "passive"))) 
+    (net 
+      (code "12") 
+      (name "/L6-") 
+      (node 
+        (ref "J2") 
+        (pin "6") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "6") 
+        (pinfunction "Pin_6") 
+        (pintype "passive"))) 
+    (net 
+      (code "13") 
+      (name "/L7+") 
+      (node 
+        (ref "J2") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "32") 
+        (pinfunction "Pin_32") 
+        (pintype "passive"))) 
+    (net 
+      (code "14") 
+      (name "/L7-") 
+      (node 
+        (ref "J2") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "7") 
+        (pinfunction "Pin_7") 
+        (pintype "passive"))) 
+    (net 
+      (code "15") 
+      (name "/L8+") 
+      (node 
+        (ref "J2") 
+        (pin "7") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "33") 
+        (pinfunction "Pin_33") 
+        (pintype "passive"))) 
+    (net 
+      (code "16") 
+      (name "/L8-") 
+      (node 
+        (ref "J2") 
+        (pin "8") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "8") 
+        (pinfunction "Pin_8") 
+        (pintype "passive"))) 
+    (net 
+      (code "17") 
+      (name "/L9+") 
+      (node 
+        (ref "J3") 
+        (pin "5") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "34") 
+        (pinfunction "Pin_34") 
+        (pintype "passive"))) 
+    (net 
+      (code "18") 
+      (name "/L9-") 
+      (node 
+        (ref "J3") 
+        (pin "4") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "9") 
+        (pinfunction "Pin_9") 
+        (pintype "passive"))) 
+    (net 
+      (code "19") 
+      (name "/L10+") 
+      (node 
+        (ref "J3") 
+        (pin "3") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "35") 
+        (pinfunction "Pin_35") 
+        (pintype "passive"))) 
+    (net 
+      (code "20") 
+      (name "/L10-") 
+      (node 
+        (ref "J3") 
+        (pin "6") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "10") 
+        (pinfunction "Pin_10") 
+        (pintype "passive"))) 
+    (net 
+      (code "21") 
+      (name "/L11+") 
+      (node 
+        (ref "J3") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "36") 
+        (pinfunction "Pin_36") 
+        (pintype "passive"))) 
+    (net 
+      (code "22") 
+      (name "/L11-") 
+      (node 
+        (ref "J3") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "11") 
+        (pinfunction "Pin_11") 
+        (pintype "passive"))) 
+    (net 
+      (code "23") 
+      (name "/L12+") 
+      (node 
+        (ref "J3") 
+        (pin "7") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "37") 
+        (pinfunction "Pin_37") 
+        (pintype "passive"))) 
+    (net 
+      (code "24") 
+      (name "/L12-") 
+      (node 
+        (ref "J3") 
+        (pin "8") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "12") 
+        (pinfunction "Pin_12") 
+        (pintype "passive"))) 
+    (net 
+      (code "25") 
+      (name "/L13+") 
+      (node 
+        (ref "J4") 
+        (pin "5") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "38") 
+        (pinfunction "Pin_38") 
+        (pintype "passive"))) 
+    (net 
+      (code "26") 
+      (name "/L13-") 
+      (node 
+        (ref "J4") 
+        (pin "4") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "13") 
+        (pinfunction "Pin_13") 
+        (pintype "passive"))) 
+    (net 
+      (code "27") 
+      (name "/L14+") 
+      (node 
+        (ref "J4") 
+        (pin "3") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "39") 
+        (pinfunction "Pin_39") 
+        (pintype "passive"))) 
+    (net 
+      (code "28") 
+      (name "/L14-") 
+      (node 
+        (ref "J4") 
+        (pin "6") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "14") 
+        (pinfunction "Pin_14") 
+        (pintype "passive"))) 
+    (net 
+      (code "29") 
+      (name "/L15+") 
+      (node 
+        (ref "J4") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "40") 
+        (pinfunction "Pin_40") 
+        (pintype "passive"))) 
+    (net 
+      (code "30") 
+      (name "/L15-") 
+      (node 
+        (ref "J4") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "15") 
+        (pinfunction "Pin_15") 
+        (pintype "passive"))) 
+    (net 
+      (code "31") 
+      (name "/L16+") 
+      (node 
+        (ref "J4") 
+        (pin "7") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "41") 
+        (pinfunction "Pin_41") 
+        (pintype "passive"))) 
+    (net 
+      (code "32") 
+      (name "/L16-") 
+      (node 
+        (ref "J4") 
+        (pin "8") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "16") 
+        (pinfunction "Pin_16") 
+        (pintype "passive"))) 
+    (net 
+      (code "33") 
+      (name "/L17+") 
+      (node 
+        (ref "J5") 
+        (pin "5") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "42") 
+        (pinfunction "Pin_42") 
+        (pintype "passive"))) 
+    (net 
+      (code "34") 
+      (name "/L17-") 
+      (node 
+        (ref "J5") 
+        (pin "4") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "17") 
+        (pinfunction "Pin_17") 
+        (pintype "passive"))) 
+    (net 
+      (code "35") 
+      (name "/L18+") 
+      (node 
+        (ref "J5") 
+        (pin "3") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "43") 
+        (pinfunction "Pin_43") 
+        (pintype "passive"))) 
+    (net 
+      (code "36") 
+      (name "/L18-") 
+      (node 
+        (ref "J5") 
+        (pin "6") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "18") 
+        (pinfunction "Pin_18") 
+        (pintype "passive"))) 
+    (net 
+      (code "37") 
+      (name "/L19+") 
+      (node 
+        (ref "J5") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "44") 
+        (pinfunction "Pin_44") 
+        (pintype "passive"))) 
+    (net 
+      (code "38") 
+      (name "/L19-") 
+      (node 
+        (ref "J5") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "19") 
+        (pinfunction "Pin_19") 
+        (pintype "passive"))) 
+    (net 
+      (code "39") 
+      (name "/L20+") 
+      (node 
+        (ref "J5") 
+        (pin "7") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "45") 
+        (pinfunction "Pin_45") 
+        (pintype "passive"))) 
+    (net 
+      (code "40") 
+      (name "/L20-") 
+      (node 
+        (ref "J5") 
+        (pin "8") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "20") 
+        (pinfunction "Pin_20") 
+        (pintype "passive"))) 
+    (net 
+      (code "41") 
+      (name "/L21+") 
+      (node 
+        (ref "J6") 
+        (pin "5") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "46") 
+        (pinfunction "Pin_46") 
+        (pintype "passive"))) 
+    (net 
+      (code "42") 
+      (name "/L21-") 
+      (node 
+        (ref "J6") 
+        (pin "4") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "21") 
+        (pinfunction "Pin_21") 
+        (pintype "passive"))) 
+    (net 
+      (code "43") 
+      (name "/L22+") 
+      (node 
+        (ref "J6") 
+        (pin "3") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "47") 
+        (pinfunction "Pin_47") 
+        (pintype "passive"))) 
+    (net 
+      (code "44") 
+      (name "/L22-") 
+      (node 
+        (ref "J6") 
+        (pin "6") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "22") 
+        (pinfunction "Pin_22") 
+        (pintype "passive"))) 
+    (net 
+      (code "45") 
+      (name "/L23+") 
+      (node 
+        (ref "J6") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "48") 
+        (pinfunction "Pin_48") 
+        (pintype "passive"))) 
+    (net 
+      (code "46") 
+      (name "/L23-") 
+      (node 
+        (ref "J6") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "23") 
+        (pinfunction "Pin_23") 
+        (pintype "passive"))) 
+    (net 
+      (code "47") 
+      (name "/L24+") 
+      (node 
+        (ref "J6") 
+        (pin "7") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "49") 
+        (pinfunction "Pin_49") 
+        (pintype "passive"))) 
+    (net 
+      (code "48") 
+      (name "/L24-") 
+      (node 
+        (ref "J6") 
+        (pin "8") 
+        (pintype "passive")) 
+      (node 
+        (ref "J7") 
+        (pin "24") 
+        (pinfunction "Pin_24") 
+        (pintype "passive"))) 
+    (net 
+      (code "49") 
+      (name "unconnected-(J7-Pin_25-Pad25)") 
+      (node 
+        (ref "J7") 
+        (pin "25") 
+        (pinfunction "Pin_25") 
+        (pintype "passive+no_connect"))) 
+    (net 
+      (code "50") 
+      (name "unconnected-(J7-Pin_50-Pad50)") 
+      (node 
+        (ref "J7") 
+        (pin "50") 
+        (pinfunction "Pin_50") 
+        (pintype "passive+no_connect")))))

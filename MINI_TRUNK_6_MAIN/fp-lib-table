@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RJ21_RJ45_6_WAY_TRUNK")(type "KiCad")(uri "${KIPRJMOD}/MINI_TRUNK_6_MAIN.pretty")(options "")(descr ""))
+)

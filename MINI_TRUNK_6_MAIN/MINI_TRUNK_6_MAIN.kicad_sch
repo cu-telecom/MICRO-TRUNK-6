@@ -1876,6 +1876,88 @@
 				)
 			)
 		)
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
 	)
 	(no_connect
 		(at 175.26 116.84)
@@ -3980,7 +4062,7 @@
 			(uuid "9aafd946-71d5-4737-8793-dd67e9c9d57b")
 		)
 		(instances
-			(project "RJ21_RJ45_6_WAY_TRUNK"
+			(project "MINI_TRUNK_6_MAIN"
 				(path "/10253eb2-9528-40c5-b304-65b79cd95330"
 					(reference "J5")
 					(unit 1)
@@ -4067,9 +4149,73 @@
 			(uuid "bbc2be85-9d24-4f8d-8636-b758550c3655")
 		)
 		(instances
-			(project "RJ21_RJ45_6_WAY_TRUNK"
+			(project "MINI_TRUNK_6_MAIN"
 				(path "/10253eb2-9528-40c5-b304-65b79cd95330"
 					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 254 44.45 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "448f69b6-5f83-4219-b18f-2bb971230fba")
+		(property "Reference" "H3"
+			(at 256.54 43.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 256.54 45.7199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 254 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 254 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 254 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "MINI_TRUNK_6_MAIN"
+				(path "/10253eb2-9528-40c5-b304-65b79cd95330"
+					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -4154,9 +4300,73 @@
 			(uuid "31c855ea-09a5-44e8-8f01-0ef8f7f9ffd9")
 		)
 		(instances
-			(project "RJ21_RJ45_6_WAY_TRUNK"
+			(project "MINI_TRUNK_6_MAIN"
 				(path "/10253eb2-9528-40c5-b304-65b79cd95330"
 					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 254 49.53 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7357fd84-7106-4cf8-9f0a-7984f60d7ecb")
+		(property "Reference" "H4"
+			(at 256.54 48.2599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 256.54 50.7999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 254 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 254 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 254 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "MINI_TRUNK_6_MAIN"
+				(path "/10253eb2-9528-40c5-b304-65b79cd95330"
+					(reference "H4")
 					(unit 1)
 				)
 			)
@@ -4241,9 +4451,73 @@
 			(uuid "0cb17193-e717-47ae-a602-e22292a717eb")
 		)
 		(instances
-			(project "RJ21_RJ45_6_WAY_TRUNK"
+			(project "MINI_TRUNK_6_MAIN"
 				(path "/10253eb2-9528-40c5-b304-65b79cd95330"
 					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 254 39.37 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7fda021c-a7ae-4281-8cd7-3076453ded6c")
+		(property "Reference" "H2"
+			(at 256.54 38.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 256.54 40.6399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 254 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 254 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 254 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "MINI_TRUNK_6_MAIN"
+				(path "/10253eb2-9528-40c5-b304-65b79cd95330"
+					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -4328,7 +4602,7 @@
 			(uuid "80d2a902-1c14-4eed-86f8-81827939f7d1")
 		)
 		(instances
-			(project "RJ21_RJ45_6_WAY_TRUNK"
+			(project "MINI_TRUNK_6_MAIN"
 				(path "/10253eb2-9528-40c5-b304-65b79cd95330"
 					(reference "J1")
 					(unit 1)
@@ -4541,7 +4815,7 @@
 			(uuid "cc338d09-59a5-4099-83ce-076d8e735479")
 		)
 		(instances
-			(project "RJ21_RJ45_6_WAY_TRUNK"
+			(project "MINI_TRUNK_6_MAIN"
 				(path "/10253eb2-9528-40c5-b304-65b79cd95330"
 					(reference "J7")
 					(unit 1)
@@ -4628,9 +4902,73 @@
 			(uuid "9b5fff83-b6a4-4f85-89c1-87f205fedef3")
 		)
 		(instances
-			(project "RJ21_RJ45_6_WAY_TRUNK"
+			(project "MINI_TRUNK_6_MAIN"
 				(path "/10253eb2-9528-40c5-b304-65b79cd95330"
 					(reference "J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 254 34.29 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f4312e3f-026c-462a-b317-890d1652263e")
+		(property "Reference" "H1"
+			(at 256.54 33.0199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 256.54 35.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 254 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 254 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 254 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "MINI_TRUNK_6_MAIN"
+				(path "/10253eb2-9528-40c5-b304-65b79cd95330"
+					(reference "H1")
 					(unit 1)
 				)
 			)

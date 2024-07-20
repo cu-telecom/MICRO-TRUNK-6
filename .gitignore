@@ -32,3 +32,4 @@ fp-info-cache
 
 # Zipped Gerber files
 Gerbers/*.zip
+*.zip

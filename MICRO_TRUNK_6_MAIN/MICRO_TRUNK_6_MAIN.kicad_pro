@@ -430,7 +430,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "MINI_TRUNK_6_MAIN.kicad_pro",
+    "filename": "MICRO_TRUNK_6_MAIN.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -464,7 +464,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "MINI_TRUNK_6_MAIN.net",
+      "netlist": "MICRO_TRUNK_6_MAIN.net",
       "plot": "C:/Users/Lenovo L14/Documents/KiCad-Projects/MINI_TRUNK_6/MINI_TRUNK_6_MAIN/gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
